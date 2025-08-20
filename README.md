@@ -70,8 +70,8 @@ Provided **as-is, without warranties**. Use responsibly.
 
 - 💬 [Discussions](../../discussions)  
 - 🐞 [Issues](../../issues)  
-- 🌐 Website *(Coming Soon)*  
-
+- 🌐 Website (https://zynixos.hk4tech.com)
+ 
 ---
 
 <p align="center">
