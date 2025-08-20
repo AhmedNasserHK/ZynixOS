@@ -104,3 +104,9 @@ Provided **as-is, without warranties**. Use responsibly.
    <img src="screenshots_win10/System_15.jpg" width="200"/>
    <img src="screenshots_win10/System_16.jpg" width="200"/>
 </p>
+
+## 📸 Screenshots ZynixOS 11
+
+<p align="center">
+Currently in final development stage
+</p>
