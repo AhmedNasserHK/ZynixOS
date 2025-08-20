@@ -82,25 +82,25 @@ Provided **as-is, without warranties**. Use responsibly.
 ## 📸 Screenshots ZynixOS 10
 
 <p align="center">
-  <img src="screenshots_win10/Boot_01.jpg" width="300"/>
-   <img src="screenshots_win10/Boot_02.jpg" width="300"/>
-   <img src="screenshots_win10/Boot_03.jpg" width="300"/>
-   <img src="screenshots_win10/Boot_04.jpg" width="300"/>
-   <img src="screenshots_win10/Boot_05.jpg" width="300"/>
-   <img src="screenshots_win10/System_01.jpg" width="300"/>
-   <img src="screenshots_win10/System_02.jpg" width="300"/>
-   <img src="screenshots_win10/System_03.jpg" width="300"/>
-   <img src="screenshots_win10/System_04.jpg" width="300"/>
-   <img src="screenshots_win10/System_05.jpg" width="300"/>
-   <img src="screenshots_win10/System_06.jpg" width="300"/>
-   <img src="screenshots_win10/System_07.jpg" width="300"/>
-   <img src="screenshots_win10/System_08.jpg" width="300"/>
-   <img src="screenshots_win10/System_09.jpg" width="300"/>
-   <img src="screenshots_win10/System_10.jpg" width="300"/>
-   <img src="screenshots_win10/System_11.jpg" width="300"/>
-   <img src="screenshots_win10/System_12.jpg" width="300"/>
-   <img src="screenshots_win10/System_13.jpg" width="300"/>
-   <img src="screenshots_win10/System_14.jpg" width="300"/>
-   <img src="screenshots_win10/System_15.jpg" width="300"/>
-   <img src="screenshots_win10/System_16.jpg" width="300"/>
+  <img src="screenshots_win10/Boot_01.jpg" width="200"/>
+   <img src="screenshots_win10/Boot_02.jpg" width="200"/>
+   <img src="screenshots_win10/Boot_03.jpg" width="200"/>
+   <img src="screenshots_win10/Boot_04.jpg" width="200"/>
+   <img src="screenshots_win10/Boot_05.jpg" width="200"/>
+   <img src="screenshots_win10/System_01.jpg" width="200"/>
+   <img src="screenshots_win10/System_02.jpg" width="200"/>
+   <img src="screenshots_win10/System_03.jpg" width="200"/>
+   <img src="screenshots_win10/System_04.jpg" width="200"/>
+   <img src="screenshots_win10/System_05.jpg" width="200"/>
+   <img src="screenshots_win10/System_06.jpg" width="200"/>
+   <img src="screenshots_win10/System_07.jpg" width="200"/>
+   <img src="screenshots_win10/System_08.jpg" width="200"/>
+   <img src="screenshots_win10/System_09.jpg" width="200"/>
+   <img src="screenshots_win10/System_10.jpg" width="200"/>
+   <img src="screenshots_win10/System_11.jpg" width="200"/>
+   <img src="screenshots_win10/System_12.jpg" width="200"/>
+   <img src="screenshots_win10/System_13.jpg" width="200"/>
+   <img src="screenshots_win10/System_14.jpg" width="200"/>
+   <img src="screenshots_win10/System_15.jpg" width="200"/>
+   <img src="screenshots_win10/System_16.jpg" width="200"/>
 </p>
