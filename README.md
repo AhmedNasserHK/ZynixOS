@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="assets/banner.png" alt="ZynixOS Banner" width="800"/>
+  <img src="banner.png" alt="ZynixOS Banner" width="800"/>
 </p>
 
 # 🌐 ZynixOS  
