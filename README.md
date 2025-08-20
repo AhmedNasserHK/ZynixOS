@@ -5,6 +5,13 @@
 
 # 🌐 ZynixOS  
 
+<p align="center">
+  <a href="https://github.com/AhmedNasserHK/ZynixOS/releases">
+    <img alt="GitHub release (latest by date including pre-releases)" src="https://img.shields.io/github/v/release/AhmedNasserHK/ZynixOS?include_prereleases">
+    <img alt="GitHub All Releases" src="https://img.shields.io/github/downloads/AhmedNasserHK/ZynixOS/total">
+  </a>
+</p>
+
 [![Latest Release](https://img.shields.io/github/v/release/YourUser/ZynixOS?color=blue&label=Latest%20Version&style=flat-square)](../../releases)  [![Downloads](https://img.shields.io/github/downloads/YourUser/ZynixOS/total?color=green&style=flat-square)](../../releases)    [![Issues](https://img.shields.io/github/issues/YourUser/ZynixOS?style=flat-square)](../../issues)    [![License](https://img.shields.io/badge/license-Custom-blue.svg?style=flat-square)](LICENSE)  
 
 ---
