@@ -78,3 +78,29 @@ Provided **as-is, without warranties**. Use responsibly.
   <b>ZynixOS Project — Powered & Provided by HK Projects</b><br>
   ✨ Windows, the way it should be.
 </p>
+
+## 📸 Screenshots
+
+<p align="center">
+  <img src="screenshots/Boot_01.jpg" width="400"/>
+   <img src="screenshots/Boot_02.jpg" width="400"/>
+   <img src="screenshots/Boot_03.jpg" width="400"/>
+   <img src="screenshots/Boot_04.jpg" width="400"/>
+   <img src="screenshots/Boot_05.jpg" width="400"/>
+   <img src="screenshots/System_01.jpg" width="400"/>
+   <img src="screenshots/System_02.jpg" width="400"/>
+   <img src="screenshots/System_03.jpg" width="400"/>
+   <img src="screenshots/System_04.jpg" width="400"/>
+   <img src="screenshots/System_05.jpg" width="400"/>
+   <img src="screenshots/System_06.jpg" width="400"/>
+   <img src="screenshots/System_07.jpg" width="400"/>
+   <img src="screenshots/System_08.jpg" width="400"/>
+   <img src="screenshots/System_09.jpg" width="400"/>
+   <img src="screenshots/System_10.jpg" width="400"/>
+   <img src="screenshots/System_11.jpg" width="400"/>
+   <img src="screenshots/System_12.jpg" width="400"/>
+   <img src="screenshots/System_13.jpg" width="400"/>
+   <img src="screenshots/System_14.jpg" width="400"/>
+   <img src="screenshots/System_15.jpg" width="400"/>
+   <img src="screenshots/System_16.jpg" width="400"/>
+</p>
